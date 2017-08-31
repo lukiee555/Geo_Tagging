@@ -2,4 +2,5 @@
     <string name="app_name">Geo_Tagging</string>
     <string name="read_flight_log">Read Flight Log</string>
     <string name="set_geolocation">Set Geolocation</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
